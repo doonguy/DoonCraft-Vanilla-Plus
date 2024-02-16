@@ -22,6 +22,11 @@ hash = "b4897ff5706d7452917b6f8559210f60ae301c811a042df57df31c989e990b54"
 metafile = true
 
 [[files]]
+file = "mods/animatica.pw.toml"
+hash = "f0463f1b50e2c2ab3c726b14236b22e07ce9be4896528ede9d51486a212a5c07"
+metafile = true
+
+[[files]]
 file = "mods/antighost.pw.toml"
 hash = "59f11097c3005d5efcec93d0cd8a1ce690dc1ed65b9e56c2b1ed7bdca24cf022"
 metafile = true
@@ -29,6 +34,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "54c92a1d353ca55a4ecb8d21c4b1fdb8f354b434a0c9448b523237cec9de1d7a"
+metafile = true
+
+[[files]]
+file = "mods/ash-api.pw.toml"
+hash = "ce1ca484ec7efff3457e485e632fa950095fd1c7baa60b96a5d3865136e55d16"
 metafile = true
 
 [[files]]
@@ -59,6 +69,11 @@ metafile = true
 [[files]]
 file = "mods/blur-fabric.pw.toml"
 hash = "fbba50d7962a2f9b75b4765b71f19e30c2864b3c863bb1b93d881d2d5c358e07"
+metafile = true
+
+[[files]]
+file = "mods/borderless-mining.pw.toml"
+hash = "5cc5a514cc9b8567abda1d5860a8ac3afdf868906caf9bd24c6c534943e1fb4c"
 metafile = true
 
 [[files]]
@@ -207,6 +222,11 @@ hash = "ef9c4bc27256d065df4feaba2bc05883ba22987c41cd48786070d37ae85cc8e1"
 metafile = true
 
 [[files]]
+file = "mods/moremcmeta.pw.toml"
+hash = "f25b57db668d54d202bb8b9a51e27fd710d9f8129ec68d15a006cda0296648b1"
+metafile = true
+
+[[files]]
 file = "mods/music-control.pw.toml"
 hash = "a3485113a1d1a639dfa29eb726263308cb4cd27537d6f09c1751dcff124ef396"
 metafile = true
@@ -222,8 +242,23 @@ hash = "64a8d5113f03e9f5931239a1f73962008e99f89b94e35a2b4daf8482d3c78f45"
 metafile = true
 
 [[files]]
+file = "mods/no-telemetry.pw.toml"
+hash = "c3190dcd456e0e009b62c5a54ad7fdf27f0311f4912b2d7d1c4a43ab264648ab"
+metafile = true
+
+[[files]]
 file = "mods/optigui.pw.toml"
 hash = "2440a2e6d0ade6bc4ca8d3677b59312734dd22106fc6fc5cbac5c24b0ba2ff05"
+metafile = true
+
+[[files]]
+file = "mods/polytone.pw.toml"
+hash = "6952047c84c752d8328088b85e768bd98158140947fab7f6e9f51f7a5a206d54"
+metafile = true
+
+[[files]]
+file = "mods/puzzle.pw.toml"
+hash = "0e59d00de821ce2095849c161e17e03d12a768d18859e813086adeaa71fd037b"
 metafile = true
 
 [[files]]
@@ -259,6 +294,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "5e73967368d47038c38dc52fa298b45603fbe6baf2608f171638ff767178ad9a"
+metafile = true
+
+[[files]]
+file = "mods/transparent.pw.toml"
+hash = "5528e99953ed94280442fc103f6cd917d7d2c838f065f77e812b5338e7bcf143"
 metafile = true
 
 [[files]]
@@ -299,6 +339,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/fast-better-grass.pw.toml"
 hash = "ef8b4c780a1410f45321a8f708c37a818a01ca0b576f0621e174899eb31e3853"
+metafile = true
+
+[[files]]
+file = "resourcepacks/ovos-rustic-redemption.pw.toml"
+hash = "ceba369d6a02be1af2b97c14c86a1a21dabbdb6eb87e588f042bbbe9ae66b043"
 metafile = true
 
 [[files]]
